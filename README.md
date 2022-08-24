@@ -2,3 +2,4 @@
 ### Hi there! My name is Hafiz. 
 #### I am video editor and game developer. 
 
+[<img src="https://novatorem.cankcygt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/yrzokubhgb9peo4vg9ux6nvjw)
