@@ -8,3 +8,4 @@
 [<img align="left" alt="cankcygt| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />](https://discord.gg/mS4FdYd6rV)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3str0yGM)](https://github.com/D3str0yGM/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3str0yGM&show_icons=true&theme=radical)
